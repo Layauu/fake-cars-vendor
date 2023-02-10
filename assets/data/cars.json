@@ -1,0 +1,70 @@
+{
+    "cars": [
+        {
+            "id": 1,
+            "brand": "Porsche",
+            "model": "GT3RS",
+            "price": "234 977.00€",
+            "main_image": "assets/images/cars/porsche-911-gt3rs/porsche-gt3rs.png",
+            "image1": "assets/images/cars/porsche-911-gt3rs/img1.png",
+            "image2": "assets/images/cars/porsche-911-gt3rs/img2.png",
+            "image3": "assets/images/cars/porsche-911-gt3rs/img3.png",
+            "image4": "assets/images/cars/porsche-911-gt3rs/img4.png"
+        },
+        {
+            "id": 2,
+            "brand": "Porsche",
+            "model": "GT3",
+            "price": "182 167.00€",
+            "main_image": "assets/images/cars/porsche-911-gt3/porsche-gt3.png",
+            "image1": "assets/images/cars/porsche-911-gt3/img1.png",
+            "image2": "assets/images/cars/porsche-911-gt3/img2.png",
+            "image3": "assets/images/cars/porsche-911-gt3/img3.png",
+            "image4": "assets/images/cars/porsche-911-gt3/img4.png"
+        },
+        {
+            "id": 3,
+            "brand": "Porsche",
+            "model": "718 Boxster",
+            "price": "62 985.00€",
+            "main_image": "assets/images/cars/porsche-718-boxster/porsche-718-boxster.png",
+            "image1": "assets/images/cars/porsche-718-boxster/img1.png",
+            "image2": "assets/images/cars/porsche-718-boxster/img2.png",
+            "image3": "assets/images/cars/porsche-718-boxster/img3.png",
+            "image4": "assets/images/cars/porsche-718-boxster/img4.png"
+        },
+        {
+            "id": 4,
+            "brand": "Porsche",
+            "model": "Cayman GT4",
+            "price": "105 332.00€",
+            "main_image": "assets/images/cars/porsche-718-cayman-gt4/porsche-718-caymangt4.png",
+            "image1": "assets/images/cars/porsche-718-cayman-gt4/img1.png",
+            "image2": "assets/images/cars/porsche-718-cayman-gt4/img2.png",
+            "image3": "assets/images/cars/porsche-718-cayman-gt4/img3.png",
+            "image4": "assets/images/cars/porsche-718-cayman-gt4/img4.png"
+        },
+        {
+            "id": 5,
+            "brand": "Porsche",
+            "model": "Cayenne Coupé",
+            "price": "92 000.00€",
+            "main_image": "assets/images/cars/porsche-cayenne-coupe/porsche-cayenne-coupe.png",
+            "image1": "assets/images/cars/porsche-cayenne-coupe/img1.png",
+            "image2": "assets/images/cars/porsche-cayenne-coupe/img2.png",
+            "image3": "assets/images/cars/porsche-cayenne-coupe/img3.png",
+            "image4": "assets/images/cars/porsche-cayenne-coupe/img4.png"
+        },
+        {
+            "id": 6,
+            "brand": "Porsche",
+            "model": "Turbo S",
+            "price": "120 145.00€",
+            "main_image": "assets/images/cars/porsche-911-turbo-s/porsche-911-turbo-s.png",
+            "image1": "assets/images/cars/porsche-911-turbo-s/img1.png",
+            "image2": "assets/images/cars/porsche-911-turbo-s/img2.png",
+            "image3": "assets/images/cars/porsche-911-turbo-s/img3.png",
+            "image4": "assets/images/cars/porsche-911-turbo-s/img4.png"
+        }
+    ]
+}
